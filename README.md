@@ -8,14 +8,21 @@
 
 - [treeskill](#treeskill)
 - [學歷](#學歷)
-- [還在努力更新自己的作品及](#作品集)
+- [還在努力更新自己的作品集](#作品集)
 
-#treeskill
+# treeskill
+- 聲樂
+- python (進修中) / html (進修中)
+- git
 
 
+# 學歷
 
+- NTNU 臺灣師範大學音樂系學士
+- NTNU 臺灣師範大學音樂系碩士(進修中)
 
-
+# 作品集
+- 目前還在努力中 
 
 <!---
 JWMRO/JWMRO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
